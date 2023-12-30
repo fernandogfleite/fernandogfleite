@@ -3,7 +3,7 @@
 ## I'm a student and backend developer!
 
 - 🌱 I’m currently learning about Python, AWS, DRF and FastAPI. 
-- 🥅 2022 Goals: Learn more about RESTful APIs
+- 🥅 2024 Goals: Learn more about RESTful APIs
 
 ### Connect with me:
 
